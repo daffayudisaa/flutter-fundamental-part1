@@ -107,7 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text(
               'Nama : Daffa Yudisa Akbar\n'
-              'NIM  : 2241720008\n'
+              'NIM  : 2241720008\n\n'
               'You have pushed the button this many times:',
             ),
             Text(
